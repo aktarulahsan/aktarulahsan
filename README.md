@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktarulahsan&label=Profile%20views&color=0e75b6&style=flat" alt="aktarulahsan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aktarulahsan" alt="aktarulahsan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aktarulahsan&theme=onedark" alt="aktarulahsan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aktarulahsan" target="blank"><img src="https://img.shields.io/twitter/follow/aktarulahsan?logo=twitter&style=for-the-badge" alt="aktarulahsan" /></a> </p>
 
