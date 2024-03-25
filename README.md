@@ -9,13 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/aktarulahsan" target="blank"><img src="https://img.shields.io/twitter/follow/aktarulahsan?logo=twitter&style=for-the-badge" alt="aktarulahsan" /></a> </p>
 
-- 🔭 I’m currently working on [Lead Academy](https://play.google.com/store/apps/details?id=app.lead.academy)
-
-- 🌱 I’m currently learning **flutter, spring boot security**
+- 🔭 I’m currently working on [Energypac Power Generation PLC.](https://www.energypac.com/epgl/)
+  
+- 🔭 I’m currently part-time working on [Lead Academy](https://play.google.com/store/apps/details?id=app.lead.academy)
+  
+- 🌱 I’m currently learning **flutter, java, spring boot security, ABAP in SAP**
 
 - 📝 I regularly write articles on [https://stackoverflowjava.blogspot.com/](https://stackoverflowjava.blogspot.com/)
 
-- 💬 Ask me about **java, spring boot, angular, android, flutter, sql**
+- 💬 Ask me about **java, spring boot, angular, android, flutter, SQL and ABAP is SAP **
 
 - 📫 How to reach me **md.aktarulahsan@gmail.com**
 
